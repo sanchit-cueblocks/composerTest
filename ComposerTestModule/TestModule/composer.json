@@ -1,0 +1,22 @@
+{
+    "name": "composertestmodule/module-testmodule",
+    "description": "Test module install using composer",
+    "type": "magento2-module",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "email": "sanchit@cueblocks.com",
+            "name": "Sanchit"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ComposerTestModule\\TestModule\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
