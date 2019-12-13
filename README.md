@@ -1,6 +1,6 @@
-# Mage2 Module ComposerTestModule TestModule
+# Mage2 Module cmworking faq
 
-    ``composertestmodule/module-testmodule``
+    ``cmworking/faq``
 
  - [Main Functionalities](#markdown-header-main-functionalities)
  - [Installation](#markdown-header-installation)

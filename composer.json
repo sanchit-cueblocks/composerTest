@@ -1,5 +1,5 @@
 {
-    "name": "cmworking/module-testmodule",
+    "name": "cmworking/faq",
     "description": "Test module install using composer",
     "type": "magento2-module",
     "license": "GPL-3.0",
@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Cmworking\\TestModule\\": ""
+            "Cmworking\\Faq\\": ""
         },
         "files": [
             "registration.php"

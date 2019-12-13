@@ -1,6 +1,6 @@
 <?php
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'Cmworking_TestModule',
+    'Cmworking_Faq',
     __DIR__
 );
